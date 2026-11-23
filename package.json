@@ -1,0 +1,30 @@
+{
+  "name": "rehan-portfolio",
+  "version": "1.0.0",
+  "description": "Rehan - AI Engineer & Full-Stack Builder Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "npx serve -l 3000",
+    "serve": "npx serve -l 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "gsap",
+    "animation",
+    "threejs",
+    "lenis"
+  ],
+  "author": "Rehan",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.18",
+    "lottie-web": "^5.12.2",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
